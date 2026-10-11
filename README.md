@@ -1,6 +1,6 @@
 # UP Diliman Classroom Finder
 
-This project is basically our attempt to make campus life a little less stressful. We built this as a Software Engineering project with our classmates at the University of the Philippines Diliman, and the goal was simple: help students quickly find classrooms, buildings, and relevant room details without wandering around campus aimlessly.
+We built this as a project for our Software Engineering subject (CS 192) with my classmates at UP Diliman, and the goal was simple: help students quickly find classrooms, buildings, and relevant room details without wandering around campus aimlessly.
 
 The app combines a campus map, building and floor plan previews, classroom search, notes, bookmarks, and a simple schedule tracker so students can plan their day more efficiently.
 
@@ -79,11 +79,12 @@ Before you begin, make sure you have Flutter installed and configured on your ma
    - if assets do not load, make sure the asset paths in `pubspec.yaml` are correct
 
 ## Contributors
+CS 192 UP-Diliman-Classroom-Finder Group
 
-This project was created as a team effort for our Software Engineering subject. It was built with classmates, a lot of brainstorming, and plenty of trial-and-error during development. The goal was not just to finish an assignment, but to make a useful tool that could genuinely help students around UP Diliman.
+Mark Luigi M. Cumabig
 
-A big thank-you to everyone who contributed to the design, development, testing, and documentation of this project.
+Jakin Mishle C. Bacalla
 
----
+Ramon Jr. C. Comendador
 
-This app is a practical, student-focused tool meant to make navigating UP Diliman a little easier, one classroom at a time.
+Diana Mae D. de la Cruz
