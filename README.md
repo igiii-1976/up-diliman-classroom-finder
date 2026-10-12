@@ -6,12 +6,14 @@ The app combines a campus map, building and floor plan previews, classroom searc
 
 ## Screenshots / App preview
 
-Here are a few preview images from the app's assets to give you an idea of what the experience looks like:
+Here are a few preview images from the application to give you an idea of what it looks like:
 
 <div align="center">
-  <img src="assets/map.jpg" alt="UP Diliman classroom finder map overview" width="260" />
-  <img src="assets/building_NIGS.jpg" alt="Building preview" width="260" />
-  <img src="assets/floorplan_EEEI_1ST.jpg" alt="Floor plan preview" width="260" />
+  <img width="150" alt="UP Classroom Finder - Page 7" src="https://github.com/user-attachments/assets/6804d248-d31d-4304-b661-466ff9ac3e1e" />
+  <img width="150" alt="UP Classroom Finder - Page 6" src="https://github.com/user-attachments/assets/093b9188-db3f-4798-98ea-467b7fcca72e" />
+  <img width="150" alt="UP Classroom Finder - Page 3" src="https://github.com/user-attachments/assets/0aad4093-be67-4a65-bb3c-dd02049abb9b" />
+  <img width="150" alt="UP Classroom Finder - Page 2" src="https://github.com/user-attachments/assets/3dedea3e-1255-4faa-a1cc-e14177edf658" />
+  <img width="150" alt="UP Classroom Finder - Page 1" src="https://github.com/user-attachments/assets/10ddbe45-d4c3-413c-8343-d34d4e5089ea" />
 </div>
 
 ## Features
