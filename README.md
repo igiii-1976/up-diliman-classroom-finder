@@ -87,6 +87,6 @@ Mark Luigi M. Cumabig
 
 Jakin Mishle C. Bacalla
 
-Ramon Jr. C. Comendador
+Ramon C. Comendador Jr.
 
 Diana Mae D. de la Cruz
